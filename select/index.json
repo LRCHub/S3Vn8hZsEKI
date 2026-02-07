@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "追い風",
+  "base_artist": "SHE'S",
+  "createdAt": "2026-02-07T03:41:31.777105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "追い風 - Oikaze",
+      "artist": "She's",
+      "has_synced": true,
+      "path": "select/01_追い風_-_Oikaze_She's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "追い風",
+      "artist": "SHE'S",
+      "has_synced": true,
+      "path": "select/02_追い風_SHE'S.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "追い風 Running",
+      "artist": "乙倉悠貴",
+      "has_synced": false,
+      "path": "select/03_追い風_Running_乙倉悠貴.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "追い風",
+      "artist": "田村ゆかり",
+      "has_synced": false,
+      "path": "select/04_追い風_田村ゆかり.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "追い風",
+      "artist": "Jyukai",
+      "has_synced": true,
+      "path": "select/05_追い風_Jyukai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "追い風",
+      "artist": "SHE'S",
+      "has_synced": false,
+      "path": "select/pl_01_追い風_SHE'S.txt"
+    }
+  ]
+}
